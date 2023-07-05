@@ -1,0 +1,276 @@
+stations_name,latitude,longitude_x,number of bikes,name,distance,address,zip_code,city,longitude_y,categories
+Alter Markt,48.306,14.2847,5,J. Leibetseder Restaurant- und BarbetriebsgmbH,139,Hauptplatz 12,4020.0,Linz,14.286,Restaurant
+Alter Markt,48.306,14.2847,5,China-Restaurant Kim San,150,Hauptplatz 4,4020.0,Linz,14.287,Chinese Restaurant
+Alter Markt,48.306,14.2847,5,Blinis Cafe Restaurant Iris Fabiane Gastronomiebetriebs GmbH & Co,180,Hauptplatz 3,4020.0,Linz,14.287,Inn
+Alter Markt,48.306,14.2847,5,Restaurant-Cafe Alte Welt,195,Hauptplatz 4,4020.0,Linz,14.287,Dining and Drinking
+Alter Markt,48.306,14.2847,5,Jindrak,153,Hauptstr. 35,4020.0,Linz,14.287,bakeries
+Alter Markt,48.306,14.2847,5,Keintzel,465,Rathausgasse 6 - 8,4020.0,Linz,14.288,austrian
+Alter Markt,48.306,14.2847,5,RIVA,79,Hauptplatz 13,4020.0,Linz,14.286,italian
+Alter Markt,48.306,14.2847,5,K.u.K. Hofbäckerei,113,Pfarrgasse 17,4020.0,Linz,14.288,bakeries
+Hauptplatz ,48.306,14.28585,6,J. Leibetseder Restaurant- und BarbetriebsgmbH,139,Hauptplatz 12,4020.0,Linz,14.286,Restaurant
+Hauptplatz ,48.306,14.28585,6,China-Restaurant Kim San,150,Hauptplatz 4,4020.0,Linz,14.287,Chinese Restaurant
+Hauptplatz ,48.306,14.28585,6,Blinis Cafe Restaurant Iris Fabiane Gastronomiebetriebs GmbH & Co,180,Hauptplatz 3,4020.0,Linz,14.287,Inn
+Hauptplatz ,48.306,14.28585,6,Restaurant-Cafe Alte Welt,195,Hauptplatz 4,4020.0,Linz,14.287,Dining and Drinking
+Hauptplatz ,48.306,14.28585,6,Jindrak,153,Hauptstr. 35,4020.0,Linz,14.287,bakeries
+Hauptplatz ,48.306,14.28585,6,Keintzel,465,Rathausgasse 6 - 8,4020.0,Linz,14.288,austrian
+Hauptplatz ,48.306,14.28585,6,RIVA,79,Hauptplatz 13,4020.0,Linz,14.286,italian
+Hauptplatz ,48.306,14.28585,6,K.u.K. Hofbäckerei,113,Pfarrgasse 17,4020.0,Linz,14.288,bakeries
+Huemerstraße ,48.306,14.2983,8,J. Leibetseder Restaurant- und BarbetriebsgmbH,139,Hauptplatz 12,4020.0,Linz,14.286,Restaurant
+Huemerstraße ,48.306,14.2983,8,China-Restaurant Kim San,150,Hauptplatz 4,4020.0,Linz,14.287,Chinese Restaurant
+Huemerstraße ,48.306,14.2983,8,Blinis Cafe Restaurant Iris Fabiane Gastronomiebetriebs GmbH & Co,180,Hauptplatz 3,4020.0,Linz,14.287,Inn
+Huemerstraße ,48.306,14.2983,8,Restaurant-Cafe Alte Welt,195,Hauptplatz 4,4020.0,Linz,14.287,Dining and Drinking
+Huemerstraße ,48.306,14.2983,8,Jindrak,153,Hauptstr. 35,4020.0,Linz,14.287,bakeries
+Huemerstraße ,48.306,14.2983,8,Keintzel,465,Rathausgasse 6 - 8,4020.0,Linz,14.288,austrian
+Huemerstraße ,48.306,14.2983,8,RIVA,79,Hauptplatz 13,4020.0,Linz,14.286,italian
+Huemerstraße ,48.306,14.2983,8,K.u.K. Hofbäckerei,113,Pfarrgasse 17,4020.0,Linz,14.288,bakeries
+Pfarrplatz,48.306,14.289585,13,J. Leibetseder Restaurant- und BarbetriebsgmbH,139,Hauptplatz 12,4020.0,Linz,14.286,Restaurant
+Pfarrplatz,48.306,14.289585,13,China-Restaurant Kim San,150,Hauptplatz 4,4020.0,Linz,14.287,Chinese Restaurant
+Pfarrplatz,48.306,14.289585,13,Blinis Cafe Restaurant Iris Fabiane Gastronomiebetriebs GmbH & Co,180,Hauptplatz 3,4020.0,Linz,14.287,Inn
+Pfarrplatz,48.306,14.289585,13,Restaurant-Cafe Alte Welt,195,Hauptplatz 4,4020.0,Linz,14.287,Dining and Drinking
+Pfarrplatz,48.306,14.289585,13,Jindrak,153,Hauptstr. 35,4020.0,Linz,14.287,bakeries
+Pfarrplatz,48.306,14.289585,13,Keintzel,465,Rathausgasse 6 - 8,4020.0,Linz,14.288,austrian
+Pfarrplatz,48.306,14.289585,13,RIVA,79,Hauptplatz 13,4020.0,Linz,14.286,italian
+Pfarrplatz,48.306,14.289585,13,K.u.K. Hofbäckerei,113,Pfarrgasse 17,4020.0,Linz,14.288,bakeries
+Am Volksgarten,48.295,14.29272,11,Lebensfreude Cafe-Restaurant,47,Landstr. 119,4020.0,Linz,14.293,"Café, Coffee Shop, Restaurant"
+Am Volksgarten,48.295,14.29272,11,Restaurant Kummerkasten - Steger Elfriede,105,Blumauer Str. 2,4020.0,Linz,14.294,Buffet
+Am Volksgarten,48.295,14.29272,11,"City Wok Cafe, Restaurant & Bar Yifeng MA",137,Blumauerstr. 9,4020.0,Linz,14.294,Bistro
+Am Volksgarten,48.295,14.29272,11,Das Anton,37,Am Volksgarten 1,4020.0,Linz,14.293,austrian
+Am Volksgarten,48.295,14.29272,11,Tropea,329,Coulinstr. 9,4020.0,Linz,14.288,italian
+Am Volksgarten,48.295,14.29272,11,tiktak,51,Landstr. 119,4020.0,Linz,14.293,breakfast_brunch
+Blumauerstraße,48.295,14.29535,4,Lebensfreude Cafe-Restaurant,47,Landstr. 119,4020.0,Linz,14.293,"Café, Coffee Shop, Restaurant"
+Blumauerstraße,48.295,14.29535,4,Restaurant Kummerkasten - Steger Elfriede,105,Blumauer Str. 2,4020.0,Linz,14.294,Buffet
+Blumauerstraße,48.295,14.29535,4,"City Wok Cafe, Restaurant & Bar Yifeng MA",137,Blumauerstr. 9,4020.0,Linz,14.294,Bistro
+Blumauerstraße,48.295,14.29535,4,Das Anton,37,Am Volksgarten 1,4020.0,Linz,14.293,austrian
+Blumauerstraße,48.295,14.29535,4,Tropea,329,Coulinstr. 9,4020.0,Linz,14.288,italian
+Blumauerstraße,48.295,14.29535,4,tiktak,51,Landstr. 119,4020.0,Linz,14.293,breakfast_brunch
+Landstraße,48.295,14.292987,8,Lebensfreude Cafe-Restaurant,47,Landstr. 119,4020.0,Linz,14.293,"Café, Coffee Shop, Restaurant"
+Landstraße,48.295,14.292987,8,Restaurant Kummerkasten - Steger Elfriede,105,Blumauer Str. 2,4020.0,Linz,14.294,Buffet
+Landstraße,48.295,14.292987,8,"City Wok Cafe, Restaurant & Bar Yifeng MA",137,Blumauerstr. 9,4020.0,Linz,14.294,Bistro
+Landstraße,48.295,14.292987,8,Das Anton,37,Am Volksgarten 1,4020.0,Linz,14.293,austrian
+Landstraße,48.295,14.292987,8,Tropea,329,Coulinstr. 9,4020.0,Linz,14.288,italian
+Landstraße,48.295,14.292987,8,tiktak,51,Landstr. 119,4020.0,Linz,14.293,breakfast_brunch
+Bahnhofplatz,48.291,14.2912,31,Restaurante Hotel Ibis Linz,157,Kärntner Str. 18- 20,4020.0,Linz,14.289,Travel and Transportation
+Bahnhofplatz,48.291,14.2912,31,Niu Restaurant,192,Kärntnerstr. 26,4020.0,Linz,14.288,Asian Restaurant
+Bahnhofplatz,48.291,14.2912,31,LIMAK Austrian Business School,433,Bergschlößlgasse 1,4020.0,Linz,14.285,College and University
+Bahnhofplatz,48.291,14.2912,31,niu,550,Kärntnerstr. 26,4020.0,Linz,14.289,asianfusion
+Bahnhofplatz,48.291,14.2912,31,Stellwerk,480,Bahnhofplatz 3-6,4020.0,Linz,14.291,cafes
+Bahnhofplatz,48.291,14.2912,31,Leberkas-Pepi,74,Bahnhofplatz 3-6,4020.0,Linz,14.291,hotdogs
+Weingartshofstraße ,48.291,14.28798,6,Restaurante Hotel Ibis Linz,157,Kärntner Str. 18- 20,4020.0,Linz,14.289,Travel and Transportation
+Weingartshofstraße ,48.291,14.28798,6,Niu Restaurant,192,Kärntnerstr. 26,4020.0,Linz,14.288,Asian Restaurant
+Weingartshofstraße ,48.291,14.28798,6,LIMAK Austrian Business School,433,Bergschlößlgasse 1,4020.0,Linz,14.285,College and University
+Weingartshofstraße ,48.291,14.28798,6,niu,550,Kärntnerstr. 26,4020.0,Linz,14.289,asianfusion
+Weingartshofstraße ,48.291,14.28798,6,Stellwerk,480,Bahnhofplatz 3-6,4020.0,Linz,14.291,cafes
+Weingartshofstraße ,48.291,14.28798,6,Leberkas-Pepi,74,Bahnhofplatz 3-6,4020.0,Linz,14.291,hotdogs
+Bethlehemstraße ,48.303,14.2893,2,Inlingua Sprachschule - International School of Languages,40,Landstr. 24,4020.0,Linz,14.289,Language School
+Bethlehemstraße ,48.303,14.2893,2,El Paso Restaurant Pizzeria,156,OK Platz 1a,4020.0,Linz,14.291,"Pizzeria, Italian Restaurant, Mexican Restaurant"
+Bethlehemstraße ,48.303,14.2893,2,BIGOLI Bar - Restaurant,201,Dametzstr. 38,4020.0,Linz,14.291,Italian Restaurant
+Bethlehemstraße ,48.303,14.2893,2,China-Restaurant Taiwan,315,Klammstr. 3,4020.0,Linz,14.284,Restaurant
+Bethlehemstraße ,48.303,14.2893,2,Izakaya Restaurant,330,Klammstr. 6,4020.0,Linz,14.284,Japanese Restaurant
+Bethlehemstraße ,48.303,14.2893,2,Gelbes Krokodil,543,Dametzstr. 30,4020.0,Linz,14.291,modern_european
+Bethlehemstraße ,48.303,14.2893,2,Cafe Exx,294,Klammstr. 1,4020.0,Linz,14.284,cafes
+Bethlehemstraße ,48.303,14.2893,2,Izakaya,288,Klammstr. 6,4020.0,Linz,14.284,japanese
+Bethlehemstraße ,48.303,14.2893,2,Skygarden,31,Landstr. 17 - 25,4020.0,Linz,14.289,bars
+Bethlehemstraße ,48.303,14.2893,2,Akakiko,47,Landstr. 17-25,4020.0,Linz,14.29,japanese
+Bethlehemstraße ,48.303,14.2893,2,Cook,516,Klammstr. 1,4020.0,Linz,14.284,scandinavian
+Bethlehemstraße ,48.303,14.2893,2,Zur Eisernen Hand,77,Eisenhandstr. 43,4020.0,Linz,14.299,austrian
+Bethlehemstraße ,48.303,14.2893,2,Solaris Bar/Cafe im OK,681,Dametzstr. 30,4020.0,Linz,14.291,bars
+Bethlehemstraße ,48.303,14.2893,2,China-Palast,40,Eisenhandstr. 30,4020.0,Linz,14.298,chinese
+Bethlehemstraße ,48.303,14.2893,2,Glorious Bastards,44,Promenade 25,4020.0,Linz,14.285,pizza
+Gruberstraße,48.303,14.3003,6,Inlingua Sprachschule - International School of Languages,40,Landstr. 24,4020.0,Linz,14.289,Language School
+Gruberstraße,48.303,14.3003,6,El Paso Restaurant Pizzeria,156,OK Platz 1a,4020.0,Linz,14.291,"Pizzeria, Italian Restaurant, Mexican Restaurant"
+Gruberstraße,48.303,14.3003,6,BIGOLI Bar - Restaurant,201,Dametzstr. 38,4020.0,Linz,14.291,Italian Restaurant
+Gruberstraße,48.303,14.3003,6,China-Restaurant Taiwan,315,Klammstr. 3,4020.0,Linz,14.284,Restaurant
+Gruberstraße,48.303,14.3003,6,Izakaya Restaurant,330,Klammstr. 6,4020.0,Linz,14.284,Japanese Restaurant
+Gruberstraße,48.303,14.3003,6,Gelbes Krokodil,543,Dametzstr. 30,4020.0,Linz,14.291,modern_european
+Gruberstraße,48.303,14.3003,6,Cafe Exx,294,Klammstr. 1,4020.0,Linz,14.284,cafes
+Gruberstraße,48.303,14.3003,6,Izakaya,288,Klammstr. 6,4020.0,Linz,14.284,japanese
+Gruberstraße,48.303,14.3003,6,Skygarden,31,Landstr. 17 - 25,4020.0,Linz,14.289,bars
+Gruberstraße,48.303,14.3003,6,Akakiko,47,Landstr. 17-25,4020.0,Linz,14.29,japanese
+Gruberstraße,48.303,14.3003,6,Cook,516,Klammstr. 1,4020.0,Linz,14.284,scandinavian
+Gruberstraße,48.303,14.3003,6,Zur Eisernen Hand,77,Eisenhandstr. 43,4020.0,Linz,14.299,austrian
+Gruberstraße,48.303,14.3003,6,Solaris Bar/Cafe im OK,681,Dametzstr. 30,4020.0,Linz,14.291,bars
+Gruberstraße,48.303,14.3003,6,China-Palast,40,Eisenhandstr. 30,4020.0,Linz,14.298,chinese
+Gruberstraße,48.303,14.3003,6,Glorious Bastards,44,Promenade 25,4020.0,Linz,14.285,pizza
+Klammstraße,48.303,14.28454,6,Inlingua Sprachschule - International School of Languages,40,Landstr. 24,4020.0,Linz,14.289,Language School
+Klammstraße,48.303,14.28454,6,El Paso Restaurant Pizzeria,156,OK Platz 1a,4020.0,Linz,14.291,"Pizzeria, Italian Restaurant, Mexican Restaurant"
+Klammstraße,48.303,14.28454,6,BIGOLI Bar - Restaurant,201,Dametzstr. 38,4020.0,Linz,14.291,Italian Restaurant
+Klammstraße,48.303,14.28454,6,China-Restaurant Taiwan,315,Klammstr. 3,4020.0,Linz,14.284,Restaurant
+Klammstraße,48.303,14.28454,6,Izakaya Restaurant,330,Klammstr. 6,4020.0,Linz,14.284,Japanese Restaurant
+Klammstraße,48.303,14.28454,6,Gelbes Krokodil,543,Dametzstr. 30,4020.0,Linz,14.291,modern_european
+Klammstraße,48.303,14.28454,6,Cafe Exx,294,Klammstr. 1,4020.0,Linz,14.284,cafes
+Klammstraße,48.303,14.28454,6,Izakaya,288,Klammstr. 6,4020.0,Linz,14.284,japanese
+Klammstraße,48.303,14.28454,6,Skygarden,31,Landstr. 17 - 25,4020.0,Linz,14.289,bars
+Klammstraße,48.303,14.28454,6,Akakiko,47,Landstr. 17-25,4020.0,Linz,14.29,japanese
+Klammstraße,48.303,14.28454,6,Cook,516,Klammstr. 1,4020.0,Linz,14.284,scandinavian
+Klammstraße,48.303,14.28454,6,Zur Eisernen Hand,77,Eisenhandstr. 43,4020.0,Linz,14.299,austrian
+Klammstraße,48.303,14.28454,6,Solaris Bar/Cafe im OK,681,Dametzstr. 30,4020.0,Linz,14.291,bars
+Klammstraße,48.303,14.28454,6,China-Palast,40,Eisenhandstr. 30,4020.0,Linz,14.298,chinese
+Klammstraße,48.303,14.28454,6,Glorious Bastards,44,Promenade 25,4020.0,Linz,14.285,pizza
+E. Koref-Promenade,48.308,14.2889,11,Restaurant Parkbad Bueffet,43,Untere Donaulaende 11,4020.0,Linz,14.289,Restaurant
+E. Koref-Promenade,48.308,14.2889,11,Steakhouse Restaurant,416,Untere Donaulände 12,4020.0,Linz,14.289,steak
+E. Koref-Promenade,48.308,14.2889,11,Fu Cheng,279,Untere Donaulände 16 a,4020.0,Linz,14.29,chinese
+E. Koref-Promenade,48.308,14.2889,11,Die Donauwirtinnen,835,Webergasse 2,4040.0,Linz,14.279,austrian
+Lederergasse,48.308,14.29608,3,Restaurant Parkbad Bueffet,43,Untere Donaulaende 11,4020.0,Linz,14.289,Restaurant
+Lederergasse,48.308,14.29608,3,Steakhouse Restaurant,416,Untere Donaulände 12,4020.0,Linz,14.289,steak
+Lederergasse,48.308,14.29608,3,Fu Cheng,279,Untere Donaulände 16 a,4020.0,Linz,14.29,chinese
+Lederergasse,48.308,14.29608,3,Die Donauwirtinnen,835,Webergasse 2,4040.0,Linz,14.279,austrian
+Fabrikstraße ,48.309,14.29284,3,Cafe Bar Restaurant Lentos,74,Ernst-Koref-Promenade 1,4020.0,Linz,14.289,"Café, Dining and Drinking, Bar"
+Fabrikstraße ,48.309,14.29284,3,LENTOS Kunstmuseum Linz,31,Ernst-Koref-Promenade 1,4020.0,Linz,14.29,artmuseums
+Fabrikstraße ,48.309,14.29284,3,Biergartl,641,Obere Donaustr. 4,4040.0,Linz,14.282,beergarden
+Fabrikstraße ,48.309,14.29284,3,Fischerhäusl,90,Flussgasse 3,4040.0,Linz,14.282,austrian
+Neues Rathaus,48.309,14.28332,13,Cafe Bar Restaurant Lentos,74,Ernst-Koref-Promenade 1,4020.0,Linz,14.289,"Café, Dining and Drinking, Bar"
+Neues Rathaus,48.309,14.28332,13,LENTOS Kunstmuseum Linz,31,Ernst-Koref-Promenade 1,4020.0,Linz,14.29,artmuseums
+Neues Rathaus,48.309,14.28332,13,Biergartl,641,Obere Donaustr. 4,4040.0,Linz,14.282,beergarden
+Neues Rathaus,48.309,14.28332,13,Fischerhäusl,90,Flussgasse 3,4040.0,Linz,14.282,austrian
+Ferihumerstraße ,48.313,14.28754,3,Golden Pub,196,Jahnstr. 9,4040.0,Linz,14.283,pubs
+Figulystraße ,48.294,14.28811,6,Restaurant Drehscheibe,141,Bahnhofstr. 3,4020.0,Linz,14.293,Restaurant
+Friedensplatz,48.3,14.28963,7,Cafe Restaurant Antebia Mediterran,33,Magazingasse 11,4020.0,Linz,14.29,"Mediterranean Restaurant, Turkish Restaurant"
+Friedensplatz,48.3,14.28963,7,Restaurant Chindia China & India,36,Magazingasse 10,4020.0,Linz,14.29,"Brewery, Restaurant"
+Friedensplatz,48.3,14.28963,7,Restaurant Ankerkeller,301,Hessenpl 14,4020.0,Linz,14.294,"Bar, Greek Restaurant"
+Friedensplatz,48.3,14.28963,7,paul's,614,Herrenstr. 36,4020.0,Linz,14.287,international
+Friedensplatz,48.3,14.28963,7,Josef das Stadtbräu,947,Landstr. 49,4020.0,Linz,14.291,beergarden
+Friedensplatz,48.3,14.28963,7,Antebia Mediterranean,937,Magazingasse 11,4020.0,Linz,14.29,wine_bars
+Friedensplatz,48.3,14.28963,7,La Fiesta,24,Magazingasse 10,4020.0,Linz,14.29,mexican
+Friedensplatz,48.3,14.28963,7,Börserie,422,Schillerstr. 70,4020.0,Linz,14.301,austrian
+Friedensplatz,48.3,14.28963,7,Manfred Heuschober,44,Johann-K.-Vogel-Str. 2,4020.0,Linz,14.291,bakeries
+Harrachstraße-Landstraße,48.302,14.29021,0,Restaurant Klosterhof,131,Landstr. 30,4020.0,Linz,14.289,Austrian Restaurant
+Harrachstraße-Landstraße,48.302,14.29021,0,Restaurant Zur Goldhaube - Griechenland gruesst Linz,217,Dametzstr. 39,4020.0,Linz,14.292,"Café, Restaurant"
+Harrachstraße-Landstraße,48.302,14.29021,0,Restaurant Restaurant Zeys,297,Mariahilfgasse 1,4020.0,Linz,14.28,Restaurant
+Harrachstraße-Landstraße,48.302,14.29021,0,Leo Jindrak,478,Herrenstr. 22-24,4020.0,Linz,14.287,bakeries
+Harrachstraße-Landstraße,48.302,14.29021,0,Klosterhof,113,Landstr. 30,4020.0,Linz,14.289,austrian
+Harrachstraße-Landstraße,48.302,14.29021,0,Stadtliebe,27,Landstr. 31,4020.0,Linz,14.29,gastropubs
+Krankenhausstraße ,48.302,14.30534,5,Restaurant Klosterhof,131,Landstr. 30,4020.0,Linz,14.289,Austrian Restaurant
+Krankenhausstraße ,48.302,14.30534,5,Restaurant Zur Goldhaube - Griechenland gruesst Linz,217,Dametzstr. 39,4020.0,Linz,14.292,"Café, Restaurant"
+Krankenhausstraße ,48.302,14.30534,5,Restaurant Restaurant Zeys,297,Mariahilfgasse 1,4020.0,Linz,14.28,Restaurant
+Krankenhausstraße ,48.302,14.30534,5,Leo Jindrak,478,Herrenstr. 22-24,4020.0,Linz,14.287,bakeries
+Krankenhausstraße ,48.302,14.30534,5,Klosterhof,113,Landstr. 30,4020.0,Linz,14.289,austrian
+Krankenhausstraße ,48.302,14.30534,5,Stadtliebe,27,Landstr. 31,4020.0,Linz,14.29,gastropubs
+Spittelwiese ,48.302,14.2868,0,Restaurant Klosterhof,131,Landstr. 30,4020.0,Linz,14.289,Austrian Restaurant
+Spittelwiese ,48.302,14.2868,0,Restaurant Zur Goldhaube - Griechenland gruesst Linz,217,Dametzstr. 39,4020.0,Linz,14.292,"Café, Restaurant"
+Spittelwiese ,48.302,14.2868,0,Restaurant Restaurant Zeys,297,Mariahilfgasse 1,4020.0,Linz,14.28,Restaurant
+Spittelwiese ,48.302,14.2868,0,Leo Jindrak,478,Herrenstr. 22-24,4020.0,Linz,14.287,bakeries
+Spittelwiese ,48.302,14.2868,0,Klosterhof,113,Landstr. 30,4020.0,Linz,14.289,austrian
+Spittelwiese ,48.302,14.2868,0,Stadtliebe,27,Landstr. 31,4020.0,Linz,14.29,gastropubs
+Harrachstraße,48.304,14.297951,7,Restaurant s'Ringelg'spiel - Platzl's Schmankerl Reigen,79,Landstr. 12,4020.0,Linz,14.288,Restaurant
+Harrachstraße,48.304,14.297951,7,Sakura Japan-Restaurant,79,Landstr. 13,4020.0,Linz,14.289,Restaurant
+Harrachstraße,48.304,14.297951,7,Coconut Thai Restaurant,109,Marienstr. 11,4020.0,Linz,14.29,Thai Restaurant
+Harrachstraße,48.304,14.297951,7,Goldener Drachen China- Restaurant Dun Shu FONG,145,Marienstr. 5,4020.0,Linz,14.29,Restaurant
+Harrachstraße,48.304,14.297951,7,Restaurant Traxlmayr,199,Promenade 16,4020.0,Linz,14.287,Restaurant
+Harrachstraße,48.304,14.297951,7,L'Osteria,205,Promenade 22,4020.0,Linz,14.287,italian
+Harrachstraße,48.304,14.297951,7,Promenadenhof,206,Promenade 39,4020.0,Linz,14.283,mediterranean
+Harrachstraße,48.304,14.297951,7,Pianino,78,Landstr. 13,4020.0,Linz,14.289,bars
+Harrachstraße,48.304,14.297951,7,Restaurant Orpheus,975,Dametzstr. 23,4020.0,Linz,14.291,greek
+Harrachstraße,48.304,14.297951,7,Traxlmayr Cafe,15,Promenade 16,4020.0,Linz,14.287,cafes
+Harrachstraße,48.304,14.297951,7,DANECKER,44,Promenade 3,4020.0,Linz,14.288,bakeries
+Promenade ,48.304,14.28719,7,Restaurant s'Ringelg'spiel - Platzl's Schmankerl Reigen,79,Landstr. 12,4020.0,Linz,14.288,Restaurant
+Promenade ,48.304,14.28719,7,Sakura Japan-Restaurant,79,Landstr. 13,4020.0,Linz,14.289,Restaurant
+Promenade ,48.304,14.28719,7,Coconut Thai Restaurant,109,Marienstr. 11,4020.0,Linz,14.29,Thai Restaurant
+Promenade ,48.304,14.28719,7,Goldener Drachen China- Restaurant Dun Shu FONG,145,Marienstr. 5,4020.0,Linz,14.29,Restaurant
+Promenade ,48.304,14.28719,7,Restaurant Traxlmayr,199,Promenade 16,4020.0,Linz,14.287,Restaurant
+Promenade ,48.304,14.28719,7,L'Osteria,205,Promenade 22,4020.0,Linz,14.287,italian
+Promenade ,48.304,14.28719,7,Promenadenhof,206,Promenade 39,4020.0,Linz,14.283,mediterranean
+Promenade ,48.304,14.28719,7,Pianino,78,Landstr. 13,4020.0,Linz,14.289,bars
+Promenade ,48.304,14.28719,7,Restaurant Orpheus,975,Dametzstr. 23,4020.0,Linz,14.291,greek
+Promenade ,48.304,14.28719,7,Traxlmayr Cafe,15,Promenade 16,4020.0,Linz,14.287,cafes
+Promenade ,48.304,14.28719,7,DANECKER,44,Promenade 3,4020.0,Linz,14.288,bakeries
+Hauptstraße ,48.314,14.28115,9,Oliva Lentia City,435,Hauptstr. 54,4040.0,Linz,14.282,kebab
+Hauptstraße ,48.314,14.28115,9,Goldener Adler,26,Hauptstr. 56,4040.0,Linz,14.281,hotels
+Hauptstraße ,48.314,14.28115,9,Monte Verde,42,Hauptstr. 63,4040.0,Linz,14.281,pizza
+Hauptstraße ,48.314,14.28115,9,Surace Classico,40,Hauptstr.54,4040.0,Linz,14.282,icecream
+Herrenstraße,48.301,14.28717,9,Chizuru Japan Restaurant,253,Johann-Konrad-Vogel-Str. 11,4020.0,Linz,14.293,Restaurant
+Herrenstraße,48.301,14.28717,9,Kiernan's Kitty Irish Pub-Restaurant GmbH,267,Hessenplatz 19,4020.0,Linz,14.293,"Bar, Restaurant"
+Herrenstraße,48.301,14.28717,9,Restaurant Kaminloch,223,Baumbachstr. 18,4020.0,Linz,14.284,Restaurant
+Herrenstraße,48.301,14.28717,9,Cocktailbar Easy,525,Baumbachstr. 14,4020.0,Linz,14.285,cocktailbars
+Herrenstraße,48.301,14.28717,9,Il Caminetto,650,Hessenplatz 19,4020.0,Linz,14.293,italian
+Herrenstraße,48.301,14.28717,9,Non Solo Vino,44,Bischofstr. 15,4020.0,Linz,14.287,italian
+Herrenstraße,48.301,14.28717,9,Tom Yam,66,Konrad-Vogel-Str. 11,4020.0,Linz,14.293,thai
+Hessenplatz ,48.301,14.29484,2,Chizuru Japan Restaurant,253,Johann-Konrad-Vogel-Str. 11,4020.0,Linz,14.293,Restaurant
+Hessenplatz ,48.301,14.29484,2,Kiernan's Kitty Irish Pub-Restaurant GmbH,267,Hessenplatz 19,4020.0,Linz,14.293,"Bar, Restaurant"
+Hessenplatz ,48.301,14.29484,2,Restaurant Kaminloch,223,Baumbachstr. 18,4020.0,Linz,14.284,Restaurant
+Hessenplatz ,48.301,14.29484,2,Cocktailbar Easy,525,Baumbachstr. 14,4020.0,Linz,14.285,cocktailbars
+Hessenplatz ,48.301,14.29484,2,Il Caminetto,650,Hessenplatz 19,4020.0,Linz,14.293,italian
+Hessenplatz ,48.301,14.29484,2,Non Solo Vino,44,Bischofstr. 15,4020.0,Linz,14.287,italian
+Hessenplatz ,48.301,14.29484,2,Tom Yam,66,Konrad-Vogel-Str. 11,4020.0,Linz,14.293,thai
+Marktplatz,48.301,14.300158,12,Chizuru Japan Restaurant,253,Johann-Konrad-Vogel-Str. 11,4020.0,Linz,14.293,Restaurant
+Marktplatz,48.301,14.300158,12,Kiernan's Kitty Irish Pub-Restaurant GmbH,267,Hessenplatz 19,4020.0,Linz,14.293,"Bar, Restaurant"
+Marktplatz,48.301,14.300158,12,Restaurant Kaminloch,223,Baumbachstr. 18,4020.0,Linz,14.284,Restaurant
+Marktplatz,48.301,14.300158,12,Cocktailbar Easy,525,Baumbachstr. 14,4020.0,Linz,14.285,cocktailbars
+Marktplatz,48.301,14.300158,12,Il Caminetto,650,Hessenplatz 19,4020.0,Linz,14.293,italian
+Marktplatz,48.301,14.300158,12,Non Solo Vino,44,Bischofstr. 15,4020.0,Linz,14.287,italian
+Marktplatz,48.301,14.300158,12,Tom Yam,66,Konrad-Vogel-Str. 11,4020.0,Linz,14.293,thai
+Martin Luther-Platz,48.301,14.29176,8,Chizuru Japan Restaurant,253,Johann-Konrad-Vogel-Str. 11,4020.0,Linz,14.293,Restaurant
+Martin Luther-Platz,48.301,14.29176,8,Kiernan's Kitty Irish Pub-Restaurant GmbH,267,Hessenplatz 19,4020.0,Linz,14.293,"Bar, Restaurant"
+Martin Luther-Platz,48.301,14.29176,8,Restaurant Kaminloch,223,Baumbachstr. 18,4020.0,Linz,14.284,Restaurant
+Martin Luther-Platz,48.301,14.29176,8,Cocktailbar Easy,525,Baumbachstr. 14,4020.0,Linz,14.285,cocktailbars
+Martin Luther-Platz,48.301,14.29176,8,Il Caminetto,650,Hessenplatz 19,4020.0,Linz,14.293,italian
+Martin Luther-Platz,48.301,14.29176,8,Non Solo Vino,44,Bischofstr. 15,4020.0,Linz,14.287,italian
+Martin Luther-Platz,48.301,14.29176,8,Tom Yam,66,Konrad-Vogel-Str. 11,4020.0,Linz,14.293,thai
+Mühlkreisbahnstraße,48.312,14.280062,3,Amici,88,Verlängerte Kircheng. 15,4040.0,Linz,14.287,pizza
+Pochestraße,48.305,14.292987,15,Restaurant Bar Absolut!on,49,Linz,,Linz,14.285,
+Pochestraße,48.305,14.292987,15,IKAAN Restaurant Bar Cafe,75,Altstadt 16,4020.0,Linz,14.284,"Café, Indian Restaurant"
+Pochestraße,48.305,14.292987,15,Restaurant Persia,168,Klosterstr. 1,4020.0,Linz,14.287,Restaurant
+Pochestraße,48.305,14.292987,15,China-Restaurant Singapore,168,Klosterstr. 1,4020.0,Linz,14.287,Restaurant
+Pochestraße,48.305,14.292987,15,Restaurant Die Drei Etagen,185,Hauptplatz 25,4020.0,Linz,14.287,"Hookah Bar, Coffee Shop, Fast Food Restaurant"
+Pochestraße,48.305,14.292987,15,Restaurant Schlossberg GmbH,694,Schlossberg 1a,4020.0,Linz,14.282,Restaurant
+Pochestraße,48.305,14.292987,15,Herberstein,45,Altstadt 10,4020.0,Linz,14.284,modern_european
+Pochestraße,48.305,14.292987,15,muto,42,Altstadt 7,4020.0,Linz,14.284,austrian
+Pochestraße,48.305,14.292987,15,Madame Wu,74,Altstadt 13,4020.0,Linz,14.285,tea
+Pochestraße,48.305,14.292987,15,Zaffran,283,Domgasse 6,4020.0,Linz,14.289,indpak
+Pochestraße,48.305,14.292987,15,Kleiner Italiener,384,Graben 17,4020.0,Linz,14.29,italian
+Pochestraße,48.305,14.292987,15,Walker,111,Hauptplatz 21,4020.0,Linz,14.287,bars
+Römerstraße ,48.305,14.280579,4,Restaurant Bar Absolut!on,49,Linz,,Linz,14.285,
+Römerstraße ,48.305,14.280579,4,IKAAN Restaurant Bar Cafe,75,Altstadt 16,4020.0,Linz,14.284,"Café, Indian Restaurant"
+Römerstraße ,48.305,14.280579,4,Restaurant Persia,168,Klosterstr. 1,4020.0,Linz,14.287,Restaurant
+Römerstraße ,48.305,14.280579,4,China-Restaurant Singapore,168,Klosterstr. 1,4020.0,Linz,14.287,Restaurant
+Römerstraße ,48.305,14.280579,4,Restaurant Die Drei Etagen,185,Hauptplatz 25,4020.0,Linz,14.287,"Hookah Bar, Coffee Shop, Fast Food Restaurant"
+Römerstraße ,48.305,14.280579,4,Restaurant Schlossberg GmbH,694,Schlossberg 1a,4020.0,Linz,14.282,Restaurant
+Römerstraße ,48.305,14.280579,4,Herberstein,45,Altstadt 10,4020.0,Linz,14.284,modern_european
+Römerstraße ,48.305,14.280579,4,muto,42,Altstadt 7,4020.0,Linz,14.284,austrian
+Römerstraße ,48.305,14.280579,4,Madame Wu,74,Altstadt 13,4020.0,Linz,14.285,tea
+Römerstraße ,48.305,14.280579,4,Zaffran,283,Domgasse 6,4020.0,Linz,14.289,indpak
+Römerstraße ,48.305,14.280579,4,Kleiner Italiener,384,Graben 17,4020.0,Linz,14.29,italian
+Römerstraße ,48.305,14.280579,4,Walker,111,Hauptplatz 21,4020.0,Linz,14.287,bars
+Schillerplatz ,48.297,14.29094,10,Restaurant Wappenstueberl Heinz Paernt,825,Garnisonstr. 51a,4020.0,Linz,14.313,Restaurant
+Schillerplatz ,48.297,14.29094,10,Royal Bombay Palace - Indisches Restaurant,1281,Goethestraße 34,4020.0,Linz,14.297,indpak
+Dinghoferstraße ,48.297,14.29907,5,Restaurant Wappenstueberl Heinz Paernt,825,Garnisonstr. 51a,4020.0,Linz,14.313,Restaurant
+Dinghoferstraße ,48.297,14.29907,5,Royal Bombay Palace - Indisches Restaurant,1281,Goethestraße 34,4020.0,Linz,14.297,indpak
+Schubertstraße ,48.299,14.29622,2,Restaurant Weinhandel Josefine Pichler Inh Max Grisenti,455,Langgasse 6,4020.0,Linz,14.291,Restaurant
+Schubertstraße ,48.299,14.29622,2,Balaton Restaurant,452,Schillerstr. 52,4020.0,Linz,14.299,Italian Restaurant
+Schubertstraße ,48.299,14.29622,2,DoN restaurant & catering GmbH,588,4020 Linz,4020.0,Linz,14.305,Event Service
+Europaplatz,48.299,14.30405,7,Restaurant Weinhandel Josefine Pichler Inh Max Grisenti,455,Langgasse 6,4020.0,Linz,14.291,Restaurant
+Europaplatz,48.299,14.30405,7,Balaton Restaurant,452,Schillerstr. 52,4020.0,Linz,14.299,Italian Restaurant
+Europaplatz,48.299,14.30405,7,DoN restaurant & catering GmbH,588,4020 Linz,4020.0,Linz,14.305,Event Service
+Untere Donaulände ,48.31,14.293835,12,Restaurant Anklang,196,Untere Donaulände 7,4020.0,Linz,14.293,Greek Restaurant
+Untere Donaulände ,48.31,14.293835,12,Restaurant Griechische Taverne Alexandros MAHMOOD,418,Ludlgasse 10/10,4020.0,Linz,14.298,
+Untere Donaulände ,48.31,14.293835,12,"Restaurant Paladino, c/o Spitz Hotel",495,Fiedlerstr. 6,4040.0,Linz,14.282,
+Untere Donaulände ,48.31,14.293835,12,Cubus,468,Ars-Electronicastr. 1,4040.0,Linz,14.284,austrian
+Untere Donaulände ,48.31,14.293835,12,Ars Electronica Center,468,Ars-Electronica-Str. 1,4040.0,Linz,14.284,museums
+Volksgartenstraße ,48.298,14.28793,5,Cuisino - das Restaurant im Casino Linz,421,Rainerstr. 2- 4,4020.0,Linz,14.291,Dining and Drinking
+Volksgartenstraße ,48.298,14.28793,5,Kolping Restaurant,437,Gesellenhausstr. 7,4020.0,Linz,14.289,Dining and Drinking
+Volksgartenstraße ,48.298,14.28793,5,XXXLutz Restaurant im Einrichtungshaus Linz,549,Goethestr. 58,4020.0,Linz,14.301,Dining and Drinking
+Volksgartenstraße ,48.298,14.28793,5,Osteria am Schillerpark,374,Rainerstr. 6-8,4020.0,Linz,14.29,italian
+Volksgartenstraße ,48.298,14.28793,5,Fratelli,548,Wurmstr. 20,4020.0,Linz,14.284,italian
+Volksgartenstraße ,48.298,14.28793,5,Fesch,420,Europaplatz 2,4020.0,Linz,14.305,austrian
+JKU Kepler Hall,48.335,14.32033,8,Einstein Cafe-Restaurant,30,Altenberger Str. 70,4040.0,Linz,14.321,Café
+JKU Kepler Hall,48.335,14.32033,8,China-Restaurant Jade Garten,122,Aubrunnerweg 11,4040.0,Linz,14.322,Chinese Restaurant
+JKU Kepler Hall,48.335,14.32033,8,Pizzeria Bella-Casa,93,Aubrunnerweg 1a,4040.0,Linz,14.321,pizza
+JKU OIC,48.337,14.315912,5,Restaurant Das Teichwerk,167,Altenberger Str. 69,4040.0,Linz,14.32,Bistro
+JKU OIC,48.337,14.315912,5,JKU Teichwerk,307,Altenbergerstr. 69,4040.0,Linz,14.323,bars
+JKU OIC,48.337,14.315912,5,Biologiezentrum,260,Johann-W.-Klein-Str. 73,4040.0,Linz,14.312,museums
+Stockhofstraße ,48.296,14.28675,0,MATADOO Restaurant- Betriebs,148,Landstr. 17- 25/ P,4020.0,Linz,14.292,Restaurant
+Stockhofstraße ,48.296,14.28675,0,Kontrast Restaurant,193,Südtiroler Str. 31,4020.0,Linz,14.295,"Café, Austrian Restaurant"
+Stockhofstraße ,48.296,14.28675,0,Restaurant Bauböck,253,Volksgartenstr. 19,4020.0,Linz,14.29,Restaurant
+Simonystraße,48.255,14.322757,0,Donauplatz Cafe Pub Restaurant,861,Pestalozzistr. 92,4030.0,Linz,14.311,"Bistro, Café"
+Lunaplatz,48.258,14.359966,11,Ristorante Leonardo,2815,Lunaplatz  9,4030.0,Linz,14.361,italian
+Bahnhof Ebelsberg,48.252,14.347181,4,Cafe Velvet,1671,Schörgenhubstr. 8,4030.0,Linz,14.301,cafes
+Traundorfer Straße 137,48.252,14.357653,4,Cafe Velvet,1671,Schörgenhubstr. 8,4030.0,Linz,14.301,cafes
+Orionstraße,48.254,14.367918,6,China-Restaurant Tai Yang,1827,Pritzstr. 10,4030.0,Linz,14.298,chinese
+Orionstraße,48.254,14.367918,6,Alte Brücke Mostar,2811,Dauphinestr. 224,4030.0,Linz,14.285,mediterranean
+Bremenstraße,48.253,14.379409,6,China-Restaurant Chinagarten,1209,Flötzerweg 10,4030.0,Linz,14.307,chinese
+Bremenstraße,48.253,14.379409,6,Kaffeemühle,1341,Dauphinestr. 69,4030.0,Linz,14.305,cafes
+Menzelweg,48.246,14.368654,3,Pferdehof Restaurant & Cafe,457,Ebelsberger Schloßweg 22,4030.0,Linz,14.333,Inn
+Menzelweg,48.246,14.368654,3,Restaurant Pussy Cat,884,Wambacher Str. 50/1,4030.0,Linz,14.327,Restaurant
+Menzelweg,48.246,14.368654,3,Gasthaus Petersburg,1048,Fadingerplatz 6,4030.0,Linz,14.327,austrian
+Menzelweg,48.246,14.368654,3,Barrique,1032,Fadingerplatz 5,4030.0,Linz,14.327,pubs
+Oidener Straße,48.249,14.366352,6,China Restaurant Glücksgarten Linz,2828,Flötzerweg 127,4030.0,Linz,14.286,chinese
+Oidener Straße,48.249,14.366352,6,Wolfi's Imbiss Würstelbude,672,Wiener Str. 455,4030.0,Linz,14.323,hotdogs
